@@ -1,0 +1,45 @@
+ 
+  /* .farmer-posts {
+    width: 30%;
+    background-color: #f0fdf4;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  } */
+  
+  .farmer-posts form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .farmer-posts div {
+    margin-bottom: 15px;
+  }
+  
+  .farmer-posts label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #3e764b;
+  }
+  
+  .farmer-posts form input,
+  .farmer-posts select {
+    padding: 8px;
+    font-size: 16px;
+    width: 100%;
+    color: #218137;
+  }
+  
+  .farmer-posts button {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .farmer-posts button:hover {
+    background-color: #218838;
+  }
+  

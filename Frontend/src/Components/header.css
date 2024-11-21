@@ -1,0 +1,49 @@
+.menu-button {
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  padding: 0;
+}
+
+.menu-button svg {
+  width: 24px;
+  height: 24px;
+  fill: currentColor;
+}
+
+.menu-list {
+  margin-top: 12px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.menu-item:last-child {
+  border-bottom: none;
+}
+
+.menu-item a {
+  text-decoration: none;
+  color: #333;
+}
+
+.menu-item a:hover {
+  color: #666;
+}
+#google_translate_element {
+  display: inline-block;
+  margin-right: 16px;
+}
+.userimg
+{
+  height: 40px;
+
+}
+
+
